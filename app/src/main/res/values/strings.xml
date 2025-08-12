@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DnD App</string>
+    <string name="quotes">Цитаты</string>
+    <string name="relationships">Отношения</string>
+    <string name="spells">Заклинания</string>
+    <string name="notes">Заметки</string>
+    <string name="settings">Настройки</string>
+    <string name="random_quote">Случайная цитата</string>
+    <string name="search_spells">Поиск заклинаний...</string>
+    <string name="all">Все</string>
+    <string name="favorites">Избранное</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="dark_mode">Тёмная тема</string>
+    <string name="light_mode">Светлая тема</string>
+    <string name="system_theme">Системная тема</string>
+    
+    <!-- Navigation Menu -->
+    <string name="menu_spells">Заклинания</string>
+    <string name="menu_feats">Умения</string>
+    <string name="menu_quotes">Цитаты табакси</string>
+    <string name="menu_notes">Заметки</string>
+    <string name="menu_settings">Настройки</string>
+    
+    <!-- Navigation Header -->
+    <string name="nav_header_title">DnD App</string>
+    <string name="nav_header_subtitle">Dungeons &amp; Dragons</string>
+    <string name="nav_header_desc">Navigation header</string>
+    
+    <!-- Common -->
+    <string name="search">Поиск</string>
+    <string name="filter">Фильтр</string>
+    <string name="clear_filters">Очистить фильтры</string>
+    <string name="no_results">Ничего не найдено</string>
+    <string name="loading">Загрузка...</string>
+    <string name="error">Ошибка</string>
+    <string name="retry">Повторить</string>
+</resources>
