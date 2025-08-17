@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">DnD App</string>
+    
+    <!-- Navigation -->
+    <string name="nav_quotes">Цитаты</string>
+    <string name="nav_relationships">Отношения</string>
+    <string name="nav_compendium">Компендиум</string>
+    <string name="nav_notes">Заметки</string>
+    <string name="nav_character">Персонаж</string>
+    <string name="nav_settings">Настройки</string>
+    
+    <!-- Character -->
+    <string name="character_name">Имя</string>
+    <string name="character_class">Класс</string>
+    <string name="character_race">Раса</string>
+    <string name="character_level">Уровень</string>
+    <string name="character_hp">Хиты</string>
+    <string name="character_ac">Класс брони</string>
+    <string name="character_initiative">Инициатива</string>
+    <string name="character_speed">Скорость</string>
+    
+    <!-- Abilities -->
+    <string name="strength">Сила</string>
+    <string name="dexterity">Ловкость</string>
+    <string name="constitution">Телосложение</string>
+    <string name="intelligence">Интеллект</string>
+    <string name="wisdom">Мудрость</string>
+    <string name="charisma">Харизма</string>
+    
+    <!-- Spells -->
+    <string name="spell_name">Название</string>
+    <string name="spell_level">Уровень</string>
+    <string name="spell_school">Школа</string>
+    <string name="spell_casting_time">Время сотворения</string>
+    <string name="spell_range">Дистанция</string>
+    <string name="spell_components">Компоненты</string>
+    <string name="spell_duration">Длительность</string>
+    <string name="spell_description">Описание</string>
+    
+    <!-- Common -->
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">Редактировать</string>
+    <string name="add">Добавить</string>
+    <string name="search">Поиск</string>
+    <string name="filter">Фильтр</string>
+    <string name="clear">Очистить</string>
+</resources>
+
